@@ -3,7 +3,6 @@ source "http://rubygems.org"
 gem "activesupport", ">= 3.0.0"
 gem 'libxml-ruby', '=0.9.7'
 gem 'rest-client', :git => 'git://github.com/cloudzilla/rest-client.git'
-gem "app"
 
 group :development do
   gem "rspec", "~> 2.3.0"

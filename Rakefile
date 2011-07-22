@@ -14,10 +14,10 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "zergio"
-  gem.homepage = "http://github.com/mlightner/zergio"
+  gem.name = "zerigo"
+  gem.homepage = "http://github.com/mlightner/zerigo"
   gem.license = "MIT"
-  gem.summary = %Q{Wraps the Zergio DNS API}
+  gem.summary = %Q{Wraps the Zerigo DNS API}
   gem.description = %Q{https://www.zerigo.com/docs/managed-dns/api_code_ruby}
   gem.email = "mlightner@gmail.com"
   gem.authors = ["Matt Lightner"]
