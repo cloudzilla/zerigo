@@ -14,8 +14,9 @@ require 'zerigo/railtie' if defined?(Rails)
 
 # Load components
 
-require 'zerigo/connection'
+require 'zerigo/api'
 require 'zerigo/object_base'
+require 'zerigo/object_collection'
 require 'zerigo/zone'
 require 'zerigo/zone_template'
 require 'zerigo/host'
